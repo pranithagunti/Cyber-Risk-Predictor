@@ -10,7 +10,8 @@ This is a simple **AI App** built using **Streamlit** that simulates a Cyber Ris
 
 **CYBER RISK ANALYZER**
 
-blob:https://web.whatsapp.com/9de2296b-2b9c-4582-bc66-9399b132eeb8<img width="2545" height="1465" alt="image" src="https://github.com/user-attachments/assets/d95a2dea-0062-4a7b-8f7c-e0d33a79074c" />
+![CYBERRISK](https://github.com/user-attachments/assets/d197d4ca-ead4-4dba-9aea-cbe85afdb22a)
+
 
 ---
 
