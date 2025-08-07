@@ -4,7 +4,7 @@
 
 **🔍 ABOUT THE PROJECT**
 
-This is a simple **AI App** built using **Streamlit** that simulates a Cyber Risk Analyzer. It uses a **pretrained machine learning model** to predict cybersecurity behavior based on inputs like device usage, awareness, and network behavior. The app demonstrates how Generative AI and classical AI models can be used for educational or analytical purposes in cybersecurity training.
+This is a simple **AI App** built using **Streamlit** that simulates a Cyber Risk Analyzer. Cyber Risk Analyzer is a machine learning-based application that analyzes various factors to predict the cyber risk level (e.g., low, medium, high) of an organization. It is designed to help companies assess their vulnerability to cyber threats using AI-driven insights
 
 ---
 
