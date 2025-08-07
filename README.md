@@ -1,5 +1,3 @@
----
-
 **AI CYBER RISK ANALYZER -  (Streamlit-based)**
 
 ---
@@ -94,6 +92,7 @@ Cyber-Risk-Analyzer/
 **🙋‍♀️ DEVELOPED BY**
 
 Sai Pranitha Gunti
+
 Aspiring Software Engineer | AI/ML Enthusiast
 
 ---
