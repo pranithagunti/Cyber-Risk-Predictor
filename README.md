@@ -19,6 +19,7 @@ This is a simple **AI App** built using **Streamlit** that simulates a Cyber Ris
 ---
 
 **LIVE DEMO LINK**
+
 link:https://cyber-risk-predictor-kjiao2cpxbgolhk3jizq3b.streamlit.app
 
 ---
